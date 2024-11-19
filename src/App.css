@@ -1,0 +1,18 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.logo {
+  max-width: 60px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 30px;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  text-align: center;
+}
